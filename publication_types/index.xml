@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types on LearnedMachines</title>
-    <link>blog.learnedmachines.org/publication_types/</link>
+    <link>xuky76.github.io/publication_types/</link>
     <description>Recent content in Publication_types on LearnedMachines</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Mon, 01 Jul 2013 00:00:00 +1000</lastBuildDate>
     
-	<atom:link href="blog.learnedmachines.org/publication_types/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="xuky76.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>1</title>
-      <link>blog.learnedmachines.org/publication_types/1/</link>
+      <link>xuky76.github.io/publication_types/1/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +1000</pubDate>
       
-      <guid>blog.learnedmachines.org/publication_types/1/</guid>
+      <guid>xuky76.github.io/publication_types/1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2</title>
-      <link>blog.learnedmachines.org/publication_types/2/</link>
+      <link>xuky76.github.io/publication_types/2/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +1000</pubDate>
       
-      <guid>blog.learnedmachines.org/publication_types/2/</guid>
+      <guid>xuky76.github.io/publication_types/2/</guid>
       <description></description>
     </item>
     

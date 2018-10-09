@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on LearnedMachines</title>
-    <link>blog.learnedmachines.org/tags/</link>
+    <link>xuky76.github.io/tags/</link>
     <description>Recent content in Tags on LearnedMachines</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +1000</lastBuildDate>
     
-	<atom:link href="blog.learnedmachines.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="xuky76.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Academic</title>
-      <link>blog.learnedmachines.org/tags/academic/</link>
+      <link>xuky76.github.io/tags/academic/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +1000</pubDate>
       
-      <guid>blog.learnedmachines.org/tags/academic/</guid>
+      <guid>xuky76.github.io/tags/academic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Learning</title>
-      <link>blog.learnedmachines.org/tags/deep-learning/</link>
+      <link>xuky76.github.io/tags/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +1000</pubDate>
       
-      <guid>blog.learnedmachines.org/tags/deep-learning/</guid>
+      <guid>xuky76.github.io/tags/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demo</title>
-      <link>blog.learnedmachines.org/tags/demo/</link>
+      <link>xuky76.github.io/tags/demo/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +1000</pubDate>
       
-      <guid>blog.learnedmachines.org/tags/demo/</guid>
+      <guid>xuky76.github.io/tags/demo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>blog.learnedmachines.org/tags/r-markdown/</link>
+      <link>xuky76.github.io/tags/r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>blog.learnedmachines.org/tags/r-markdown/</guid>
+      <guid>xuky76.github.io/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>plot</title>
-      <link>blog.learnedmachines.org/tags/plot/</link>
+      <link>xuky76.github.io/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>blog.learnedmachines.org/tags/plot/</guid>
+      <guid>xuky76.github.io/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>regression</title>
-      <link>blog.learnedmachines.org/tags/regression/</link>
+      <link>xuky76.github.io/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>blog.learnedmachines.org/tags/regression/</guid>
+      <guid>xuky76.github.io/tags/regression/</guid>
       <description></description>
     </item>
     
