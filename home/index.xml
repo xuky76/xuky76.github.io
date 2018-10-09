@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on LearnedMachines</title>
+    <link>blog.learnedmachines.org/home/</link>
+    <description>Recent content in Homes on LearnedMachines</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +1100</lastBuildDate>
+    
+	<atom:link href="blog.learnedmachines.org/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>blog.learnedmachines.org/home/hero_carousel/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +1100</pubDate>
+      
+      <guid>blog.learnedmachines.org/home/hero_carousel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>It&#39;s pronounced learned...</title>
+      <link>blog.learnedmachines.org/home/hero/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +1100</pubDate>
+      
+      <guid>blog.learnedmachines.org/home/hero/</guid>
+      <description>Welcome to my data science blog. I hope you find it entertaining (or at least useful)</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>blog.learnedmachines.org/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +1000</pubDate>
+      
+      <guid>blog.learnedmachines.org/home/about/</guid>
+      <description>Biography Michael Cassidy is in progress&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>blog.learnedmachines.org/home/skills/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +1000</pubDate>
+      
+      <guid>blog.learnedmachines.org/home/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>blog.learnedmachines.org/home/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>blog.learnedmachines.org/home/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>blog.learnedmachines.org/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +1000</pubDate>
+      
+      <guid>blog.learnedmachines.org/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications of Interest</title>
+      <link>blog.learnedmachines.org/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +1000</pubDate>
+      
+      <guid>blog.learnedmachines.org/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected Talks</title>
+      <link>blog.learnedmachines.org/home/talks_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +1000</pubDate>
+      
+      <guid>blog.learnedmachines.org/home/talks_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>blog.learnedmachines.org/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +1000</pubDate>
+      
+      <guid>blog.learnedmachines.org/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>blog.learnedmachines.org/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +1000</pubDate>
+      
+      <guid>blog.learnedmachines.org/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>blog.learnedmachines.org/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +1000</pubDate>
+      
+      <guid>blog.learnedmachines.org/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>blog.learnedmachines.org/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +1000</pubDate>
+      
+      <guid>blog.learnedmachines.org/home/teaching/</guid>
+      <description>I am available for private tutoring on request</description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>blog.learnedmachines.org/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +1000</pubDate>
+      
+      <guid>blog.learnedmachines.org/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>blog.learnedmachines.org/home/search/</link>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 +1000</pubDate>
+      
+      <guid>blog.learnedmachines.org/home/search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>blog.learnedmachines.org/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +1000</pubDate>
+      
+      <guid>blog.learnedmachines.org/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
